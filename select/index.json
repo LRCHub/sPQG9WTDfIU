@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "The Happy Dictator",
+  "base_artist": "Gorillaz",
+  "createdAt": "2026-03-01T06:54:01.417570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Happy Dictator",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/01_The_Happy_Dictator_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Happy Dictator",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/02_The_Happy_Dictator_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gorillaz - The Happy Dictator ft. Sparks (Official Visualiser)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/03_Gorillaz_-_The_Happy_Dictator_ft._Sparks_(Official_Visualiser)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Happy Dictator (feat. Sparks)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/04_The_Happy_Dictator_(feat._Sparks)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Happy Dictator (feat. Sparks)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/05_The_Happy_Dictator_(feat._Sparks)_Gorillaz.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Happy Dictator",
+      "artist": "Gorillaz feat. Sparks",
+      "has_synced": true,
+      "path": "select/06_The_Happy_Dictator_Gorillaz_feat._Sparks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Happy Dictator (feat. Sparks)",
+      "artist": "Gorillaz\u0000Sparks",
+      "has_synced": true,
+      "path": "select/07_The_Happy_Dictator_(feat._Sparks)_Gorillaz\u0000Sparks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Happy Dictator feat. Sparks",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/08_The_Happy_Dictator_feat._Sparks_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Happy Dictator (feat. Sparks)",
+      "artist": "Gorillaz, Sparks",
+      "has_synced": true,
+      "path": "select/09_The_Happy_Dictator_(feat._Sparks)_Gorillaz,_Sparks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Happy Dictator (feat. Sparks)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/pl_01_The_Happy_Dictator_(feat._Sparks)_Gorillaz.txt"
+    }
+  ]
+}
